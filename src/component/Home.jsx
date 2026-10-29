@@ -25,7 +25,7 @@ function Home() {
                         View Projects
                     </a>
 
-                    <a href="/Adoniyas-Kassaw_CV(3).pdf" className="btn" download>
+                    <a href="/Adoniyas_Kassaw_CV(3).pdf" className="btn" download>
                         Download CV
                     </a>
 
